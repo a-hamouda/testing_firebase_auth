@@ -1,16 +1,9 @@
 # testing_firebase_auth
 
-A new Flutter project.
+An example to show how to mock `google_sign_in` and `firebase_auth` packages to test business logic.
 
-## Getting Started
+Execute the following command to run the tests:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```shell
+flutter test
+```
